@@ -51,7 +51,6 @@ button:hover {
 @media (max-width:768px) {
     .app {
         width: 99%;
-        grid-template-rows: 50px repeat(5, 100%);
     }
     h1 {
         font-size: 2.5rem;
